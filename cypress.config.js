@@ -6,4 +6,7 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
   },
+  video: true,
+  videoCompression: true,
+  scrollBehavior: 'center'
 });
